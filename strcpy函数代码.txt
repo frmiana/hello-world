@@ -12,3 +12,9 @@ char* StrCpy(char* src){
 	res[i]='\0';
 	return res;
 }
+
+
+
+
+
+//remote edit B20031808 王涵鑫
